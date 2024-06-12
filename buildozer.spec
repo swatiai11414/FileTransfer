@@ -55,7 +55,7 @@ requirements = python3, kivy==2.1.0, kivymd==1.1.1, pillow
 icon.filename = icon.png
 
 # (list) Supported orientations
-# Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
+# Valid options are: landscape, portrait, portrait-reverse or landscape-reversef
 orientation = portrait
 
 # (list) List of services to declare
